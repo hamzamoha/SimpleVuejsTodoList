@@ -10,7 +10,8 @@ npm install
 npm run serve
 ```
 
-#### All you need is a backend server, such as: json-server, php backend to handle requests (php as a third party between the mysql DB and the frontend), or maybe Firebase
+### What should you add?
+  All you need is a backend server, such as: json-server, php backend to handle requests (php as a third party between the mysql DB and the frontend), or maybe Firebase
 
 ### Compiles and minifies for production
 ```
