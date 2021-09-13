@@ -1,4 +1,4 @@
-# aurora
+# Simple Vuejs Todo List
 
 ## Project setup
 ```
